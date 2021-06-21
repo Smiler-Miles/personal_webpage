@@ -5,7 +5,7 @@ body {
 .header {
     padding: 80px; /* some padding */
     text-align: center; /* center the text */
-    background: #a3a3c2; /* grey background */
+    background: #333333; /* grey background */
     color: #ff80d5; /* pink text color */
 }
 
@@ -17,7 +17,7 @@ body {
 /* Style the top navigation bar */
 .navbar {
     overflow: hidden; /* Hide overflow */
-    background-color: #a3a3c2; /* Dark background color */
+    background-color: #333333; /* Dark background color */
 }
   
   /* Style the navigation bar links */
@@ -56,14 +56,14 @@ body {
 /* Sidebar/left column */
 .side {
     flex: 30%; /* Set the width of the sidebar */
-    background-color: #a3a3c2; /* Grey background color */
+    background-color: #333333; /* Grey background color */
     padding: 20px; /* Some padding */
 }
   
 /* Main column */
 .main {
     flex: 70%; /* Set the width of the main content */
-    background-color: #a3a3c2; /* White background color */
+    background-color: #333333; /* White background color */
     padding: 20px; /* Some padding */
 }
 
